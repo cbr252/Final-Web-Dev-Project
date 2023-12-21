@@ -1,0 +1,65 @@
+.skills {
+    text-align:left;
+}
+
+/* Body styles */
+body {
+    background-color:rgb(255, 210, 201); /* Custom background color */
+    font-family: 'Arial', sans-serif; /* Font family */
+    color: #333; /* Font color */
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #5e4a1e; /* Header background color */
+    color: #fff; /* Header text color */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Content styles */
+  #content {
+    margin: 20px;
+  }
+  
+  /* Image styles */
+  img {
+    max-width: 250px;
+    height: auto;
+    margin-top: 10px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  /* Embedded video styles */
+  iframe {
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+  }
+  
+  /* Anchor styles */
+  a {
+    color: #1e3a5e; /* Link color */
+    text-decoration: none;
+  }
+  
+  /* Footer styles */
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1e3a5e; /* Footer background color */
+    color: #fff; /* Footer text color */
+  }
+  ol {
+    padding-left: 600px;
+  }
+  h2 {
+    text-align:center;
+  }
+  li{
+    font-size: 18px;
+  }
+  .divvy{
+    font-size: 16px;
+  }
